@@ -1,0 +1,5 @@
+Flask==2.3.3
+PyGithub==1.59.1
+GitPython==3.1.37
+Werkzeug==2.3.7
+gunicorn==21.2.0
